@@ -1,0 +1,237 @@
+*{
+   
+        font-family: "Anta", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+            font-family: "Anta", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  
+}
+#first {
+    background-image: url(imge/pexels-adrien-olichon-2387793.jpg);
+    height: 800px;
+    width:100%;
+    background-size: cover;
+}
+#first #nav-bar{
+    
+    display: flex;
+    justify-content:space-between ;
+    align-items:center ;
+    padding: 30px;
+}
+#first #nav-bar #v{
+    display: flex;
+
+}
+#first #nav-bar #v #logo a{
+    padding-left: 10px;
+    color: rgb(216, 6, 6);
+    font-size: 35px;
+    text-decoration-line: none;
+    
+    
+}
+#first #nav-bar #b{
+  margin-left: 100px; 
+  margin-top:16px ;
+   
+    
+}
+#first #nav-bar #b a{
+    margin-left: 25px;  
+    color: rgb(216, 6, 6);
+    font-size: 20px;
+    text-decoration-line: none;
+    
+      
+  }
+  #first #nav-bar button{
+   background-color:rgb(216, 6, 6);
+   border-radius:25px ;
+   width: 120px;
+   height: 23px;
+   font-size:16px ;
+
+  }
+  #first #nav-bar select{
+    background-color:rgb(216, 6, 6);
+    border-radius:25px ;
+    width: 40px;
+    height: 30px;
+    font-size:14px ;
+ 
+   }
+   #first #nav-bar select:hover{
+    border: 3px solid rgb(255, 255, 255);
+    transition: 0.6;
+    cursor: pointer;
+ 
+   }
+   #first #nav-bar button:hover{
+    border: 3px solid rgb(255, 255, 255);
+    transition: 0.6;
+   cursor: pointer;
+   }
+
+   #first #nav-bar #b a:hover{
+    color: white;
+    transition: 0.6;
+    cursor: pointer;
+   }
+   #first #fornt #para{
+    position: relative;
+    top: 160px;;
+    left: 60px; ;
+   }
+   #first #fornt #para h1{
+    color: rgb(216, 6, 6);
+    font-size: 60px;
+   }
+   #first #fornt #para p{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+   }
+   #first #fornt #para button{
+    background-color: rgb(216, 6, 6);
+    font-size:15px;
+    width: 100px;
+    height: 40px;
+    border-radius: 25px;
+    
+   }
+   #first #fornt #para button:hover{
+   border: 3px white solid;
+   border-radius: 25px;
+   cursor: pointer;
+    
+   }
+   #m {
+   background-color:rgb(216, 6, 6) ;
+    height: 500px;
+    width:100%;
+    background-size: cover;
+}
+#m #fr #n{
+ justify-content: space-between;
+ align-items: center;
+ display: flex;
+ padding: 40px;
+ 
+}
+#m #fr #n h1{
+  color:white;
+  font-size: 40px;
+
+}
+#m #fr #n #button button{
+  background-color: rgb(255, 255, 255);
+    font-size:15px;
+    width: 100px;
+    height: 40px;
+    border-radius: 25px;
+
+  }
+  #m #fr #n #button button:hover{
+    border: 5px rgb(0, 0, 0) solid;
+   border-radius: 25px;
+   cursor: pointer;
+  
+    }
+    #m #fr #film{
+      display: flex;
+      position: relative;
+      left: 50px;
+      background-color: black;
+      width: 1420px;
+      height: 330px;
+      padding:6px ;
+    }
+    #m #fr #film #film-1{
+      align-items: center;
+      width: 230px;
+      border:rgb(216, 6, 6) 5px solid  ;
+      border-radius: 20px;
+      
+    }
+    #m #fr #film #film-1 a img{
+      position: relative;
+      width: 215px;
+      height: 265px;
+      left: 10px;
+      top: 10px;
+      
+    }
+    #m #fr #film #film-1 h1{
+      color: white;
+      font-size: 20px;
+      padding-left:30px ;
+      padding-top: 5px;
+    }
+    #m #fr #film #film-2{
+      align-items: center;
+      width: 230px;
+      border:rgb(216, 6, 6) 5px solid  ;
+      border-radius: 20px;
+      
+    }
+    #m #fr #film #film-2 img{
+      position: relative;
+      width: 215px;
+      height: 265px;
+      left: 10px;
+      top: 10px;
+      
+    }
+    #m #fr #film #film-2  h1{
+      color: white;
+      font-size: 20px;
+      padding-left:30px ;
+      padding-top: 5px;
+    }
+
+
+
+    #m #fr #film #film-3{
+      align-items: center;
+      width: 230px;
+      border:rgb(216, 6, 6) 5px solid  ;
+      border-radius: 20px;
+      
+    }
+    #m #fr #film #film-3 img{
+      position: relative;
+      width: 215px;
+      height: 265px;
+      left: 10px;
+      top: 10px;
+      
+    }
+    #m #fr #film #film-3  h1{
+      color: white;
+      font-size: 20px;
+      padding-left:30px ;
+      padding-top: 5px;
+    }
+
+
+
+
+
+
+
+
+   
+    
+
+    
+
+
+
+ 
+
+
